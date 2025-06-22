@@ -16,7 +16,7 @@ MovieHub is a sleek and modern movie website clone built using **React.js** and 
 
 ---
 
-## 🔑 Features
+## 🔑 Features 
 
 - 🎥 Browse real-time movies from the API
 - 🔍 Search functionality
