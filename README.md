@@ -2,7 +2,7 @@
 
 MovieHub is a sleek and modern movie website clone built using **React.js** and **Tailwind CSS**. It fetches real-time data from a public movies API to display trending, popular, and top-rated movies with an engaging user interface.
 
-
+ 
 
 ---
 
